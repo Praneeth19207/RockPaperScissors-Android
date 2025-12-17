@@ -14,6 +14,6 @@ A simple Android game built using Java and XML in Android Studio.
 - Android Studio
 
 ### Future Scope
-- Smart AI prediction system (No Game No Life inspired)
+- Smart AI prediction system
 - Multiple game modes
 - Multiplayer support
